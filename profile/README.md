@@ -2,8 +2,7 @@
 
 Detta är organisationssidan för tävlingen [PokerBots Borås](http://www.pokerbotsboras.grgta.xyz), anordnad i juli 2025 för SUVNET på YH i Borås.
 
-![PokerBotsLogo_small](https://github.com/user-attachments/assets/7fa9bef5-a1a2-49bd-95ed-4b8eb9f80132)
-
+![PokerBots Borås graphic](https://github.com/user-attachments/assets/31fc03cd-959d-440e-ad85-1593aa31e76a)
 
 
 ## Kom igång snabbt
